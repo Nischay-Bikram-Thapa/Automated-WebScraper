@@ -1,0 +1,470 @@
+QA Engineer/Java Script Developer/Content Writer
+----------------------------------------------------
+QA Engineer (3)
+  What you have to Do!
+
+Bug Hunt
+Write Test Plan and Test Scenarios.
+Execute Test cases
+Write Reports
+
+  What we expect from you!
+
+Passionate Learner.
+Critical Thinker.
+Solution Oriented.
+Effective team player.
+
+  What you can expect from us!
+
+Great Learning Environment
+Testing approach: Exploratory/Regression Testing, Automation testing.
+Test in Different Device: Windows, Mac OS, iOS, Android devices, tablets, notebooks etc. 
+Tools/Technology: Monosnap, Screencast, Github, Gitlab, Selenium, Jmeter, Rest API, postman.
+Test Projects: Various e-commerce sites, gaming applications, travel Guide, hotel booking sites.
+
+ 
+JavaScript Developer (2)
+  What you have to Do!
+
+Develop new user-facing features
+Build reusable code and libraries for future use
+Ensure the technical feasibility of UI/UX designs
+
+   What we expect from you!
+
+Passionate Learner.
+Strong understanding of JavaScript.
+Basic understanding of web markup, including HTML5 and CSS3
+Good understanding of advanced JavaScript libraries and frameworks such as Node.js, Angular, React etc
+Proficient understanding of cross-browser compatibility issues and ways to work around such issues
+Effective team player.
+
+  What you can expect from us!
+
+Great Learning Environment
+Short term projects in a different domain.
+Opportunity to work in different technology.
+
+ 
+Content Writer (2)
+  What you have to Do!
+
+Prepare the content for the Product /App.
+Post the Blogs in different platform.
+
+  What we expect from you!
+
+Creative writing, researching.
+Converting Ideas into information.
+Rewriting/rephrasing/paraphrasing the original content.
+Good command on MS office
+Impactful team player.
+
+  What you can expect from us!
+
+Great Learning Environment
+Challenging role.
+
+ 
+Qualification
+ Bachelor degree in Computer Science or equivalent.
+ Note: Please send your CV at info@sursatech.com
+JS Developer
+----------------------------------------------------
+Requirements:
+
+1 + years experience with Vanilla JS
+Knowledge on JS frontend technology (React JS - preferred)
+Experience on Data Visualization - D3 JS
+Tools (Webpack, Grunt, Gulp, NPM, Babel)
+ES-6 Experience
+Experience with state management framework like Redux
+Experience with SPAs, server side rendering issues
+Relational Database (Postgres - preferred )
+Familiarity with versioning tools (like git)
+HTML5, SASS (CSS 3 )
+Experience working in an agile environment
+Knowledge of mapping libraries like Leaflet JS/ Openlayers will be plus point
+Experience on Node JS, API Development will be plus point 
+
+Responsibilities:
+
+Requirement analysis and selection of correct tools to solve the problem
+Developing services and integrating with backend (eg: web apps, iOs or Android apps)
+Code reviews
+Work with product owner and rest of team members to achieve the goal
+Grow team around you
+Be a key part of the success of the project 
+
+ 
+Other Specification:
+
+Minimum 1 year of experience in the field of Programming and web development
+The applicant must be able to work with MySQL or Postgresql
+Must have developed 3+ published projects (in web/stores) related to web/mobile application
+Need to possess good knowledge of software life cycle, database relations, and data structures
+Sound communication skills in English language 
+
+ 
+Job Description
+
+JS developer must be project focused professional who will be responsible to Support, development, execute the project. 
+With deep understanding of JS programming, database modeling and design, scalable web architecture, 
+He or she should be able to write libraries and modular codes from scratch.
+
+You will have an opportunity to be part of excellent team working on humanitarian projects  for national and international organization.
+Please drop your cv along with the cover letter and salary expectation to hr.naxa@gmail.com.
+JavaScript Developer - React Native
+----------------------------------------------------
+Job Description: 
+The Code Fusion team is seeking a Software Engineer who will be responsible for the delivery, architecture, and development of complex large-scale systems. The ideal candidate will be responsible for architecting and building these applications, as well as coordinating with the teams responsible for other layers of the product infrastructure. Building a product is a highly collaborative effort, and as such, a strong team player with a commitment to perfection is required.
+The candidate should work within an agile development environment with other developers and responsibilities include design & development of performant mobile apps on both the iOS and Android platforms, participate in project planning, develop and deliver world-class software solutions and work directly with Product Management and Sales to design and develop new product features.
+Salary: 35,000 - 80,000 (Depends On Skills and Experience)
+Main Tasks and Responsibilities: 
+
+Design and develop complex and highly scalable Mobile applications and participate in all phases of the development process: planning, construction, and testing.
+Build pixel-perfect, buttery smooth UIs across both mobile platforms.
+Leverage native APIs for deep integrations with both platforms.
+Independently develop, code or modify, test, and debug application programs of varying degree of complexity.
+Work as a key project resource on a project team or independently to complete assigned tasks.
+Writing well-designed, efficient, and testable code.
+Maintain code and write automated tests to ensure the product is of the highest quality.
+Diagnose and fix bugs and performance bottlenecks for performance that feels native. 
+
+Requirements: 
+Qualification:  
+
+
+Bachelor’s Degree (BE, Computer Science, or any related field).
+Having 2+ years of experience in JavaScript & its frameworks and 1+ years of experience in React Native. 
+
+
+Must Have Skills: 
+
+Solid expertise in front-end technologies: HTML5, CSS3, Javascript/JSON.
+Outstanding knowledge of SDLC(Software Development Life Cycle).
+Strong JavaScript skills with ES6, React and Command of OO principles/techniques in Javascript.
+Outstanding knowledge of Frontend build tooling (Webpack/Parcel, Babel, NPM/Yarn).
+Experience in unit testing code with JEST/enzyme/Jasmine/Mocha/Chai.
+Experience in developing highly scalable applications that handle huge traffic and large amounts of data.
+Hands-on experience with State management libraries like Redux/MobX.
+Rock solid at working with third-party dependencies and debugging dependency conflicts.
+Understanding of REST APIs, the document request model, and offline storage.
+Experience troubleshooting cross-browser compatibility and cross-platform compatibility issues.
+Solid knowledge and understanding of NoSQL and Relational databases (MySQL, Oracle, etc.) and understanding of database concepts (schemas, tables…).
+
+Desired Skills:
+
+Experience with Progressive Web Apps and GraphQL. 
+Experience in LESS / SASS css pre-processors.
+Experience working in a SCRUM team.
+Innovative and strong team player with amazing problem-solving skills.
+Proficiency with GIT as a version control system.
+Experienced in Agile development methodologies and tools including JIRA and Bitbucket.
+
+We Offer Following Benefits:
+Competitive Salary (6 months review).
+5 days working week.
+Young and Motivated Team.
+Opportunity to work in a company with International Standards.
+Team events and movie nights.
+To Apply: 
+Please send your resume/CV to cfusiontechnology@gmail.com after completing this form.
+http://bit.ly/2UV1r3O
+Note: It is compulsory to fill up the form and candidates won't get a callback if they don't fill out this form.
+Java Developer - Core Java/J2EE/Spring/Hibernate
+----------------------------------------------------
+Job Description: 
+The Code Fusion team is seeking a Software Engineer who will be responsible for the delivery, architecture, and development of complex large-scale systems. The ideal candidate will have a solid foundation in Software Engineering principles and 2+ years of hands-on JAVA development. 
+The candidate should work within an agile development environment with other developers and responsibilities include design & development of Desktop/web-based applications, participate in project planning, develop and deliver world-class software solutions and work directly with Product Management and Sales to design and develop new product features.
+Salary: Rs 35,000 to Rs 60,000 (Depending on skills and experience)
+Main Tasks and Responsibilities:
+
+Design and develop complex and highly scalable Desktop/Web applications and participate in all phases of the development process: planning, construction, and testing.
+Collaborate with business analysts, other developers, and test engineers on the team to produce high-quality software that delivers business value and follows established design patterns and processes.
+Independently develop, code or modify, test, and debug application programs of varying degree of complexity.
+Work as a key project resource on a project team or independently to complete assigned tasks.
+Writing well-designed, efficient, and testable code.
+Deliver high-quality software programs adhering to coding standards.
+Production defects analysis, UAT support, implementation, infrastructure support, development.
+
+Requirements: Qualification: 
+
+Bachelor’s Degree (BE, Computer Science, or any related field).
+Having 2+ years of experience in Java development.
+
+Must Have Skills:
+
+Hands-on experience in designing and developing applications using Java EE platforms.
+Solid knowledge and Experience in Core Java, Hibernate, Spring/Spring Boot, JPA, JSF.
+Experience in the tools required in a development lifecycle: build (Maven, Gradle), unit testing (JUnit, TestNG), version control (Git), task and defect management (Jira), Agile development approaches.
+Outstanding knowledge of SDLC(Software Development Life Cycle).
+Experience in developing highly scalable applications that handle huge traffic and large amounts of data.
+Solid understanding and experience with Application Server and middleware technologies such as Apache, Tomcat, Weblogic, etc.
+Experience with JSON, RESTful web services, asynchronous/concurrent programming models.
+Profound insight of Java and JEE internals (Classloading, Memory Management, Transaction management etc).
+Solid knowledge and understanding of NoSQL and Relational databases (MySQL, Oracle, etc.) and understanding of database concepts (schemas, tables…).
+
+Desired Skills:
+
+Experience with Linux/Unix operating systems and scripting (bash, python, etc.).
+Experience working in a SCRUM team.
+Innovative and strong team player with amazing problem-solving skills.
+Proficiency with GIT as a version control system.
+Experienced in Agile development methodologies and tools including JIRA and Bitbucket.
+
+We Offer Following Benefits: 
+
+Competitive Salary (6 months review).
+5 days working week.
+Young and Motivated Team.
+Opportunity to work in a company with International Standards.
+Team events and movie nights.
+
+To Apply: 
+Please send your resume/CV to cfusiontechnology@gmail.com after completing this form.
+http://bit.ly/2Bzn0Pc
+Note: It is compulsory to fill up the form and candidates won't get a callback if they don't fill out this form.
+SENIOR SOFTWARE ENGINEER-JAVA
+----------------------------------------------------
+We are looking for self-driven, motivated and result oriented professional to be part of the dynamic team as “Sr. Software Engineer - JAVA”. Details of the same have been highlighted below; 
+Job Description:
+
+Design, develop, enhance, debug, and implement software components. Troubleshoots production problems related to software applications. 
+Test, analyze and optimize the implementation.
+Consults with project teams and end users to identify application requirements.
+Resolve problems and respond to suggestions for improvements and enhancements. 
+Acts as team leader on projects.
+Instruct, assign, direct, and check the work of other developers. 
+Participates in development of user manuals.
+
+Key Technical Skills:
+
+Proven experience with Java, J2ee, Core Java, 
+Experience in JQuery, Java Script, JSP, Web Services, Servlets etc
+Good understanding of data structures, Design patterns, object oriented programming algorithms.
+Highly experienced in MVC framework like Spring
+Experience on Hibernate/JPA, Oracle/MySQL/MSSQL Server is must
+Experience on Web Services like SOAP,REST
+Hands on experience with JSON/Rest and Rest security is a plus
+Exposure to complete SDLC and experience in Agile software development is a plus
+Hands on experience on version controls like SVN, CVS, GITHUB
+Must be able to help the team to develop the programming code from scratch or by adapting existing website graphics packages and software to meet business requirements after discussion sessions with the project management team.
+Conduct technical reviews, project reviews and audits code review and QC of codes.
+Provides functional and/or technical guidance in evaluating applications systems. Coordinates changes and influences and prioritizes tasks with business or technical departments.
+Must be proactive in driving complex design discussions and resolving issues in a timely manner.
+Knowledge on Point of Sale (POS) software and Retail software would be a plus.
+
+General Requirements:
+
+Bachelor’s Degree in Computer Science or a related discipline. Master’s Degree Preferable.
+4+ Years of Hands-on Experience in Java/J2ee Technologies
+Proven experience in leading concurrent projects and task by managing a team of technical staffs.
+Excellent communication skill and proven ability to carry on a business conversation at all levels.
+Strong Leadership, Decision Making and Problem Solving skill.
+Willingness to travel outside country as per need.
+International exposure/experience will be an added advantage.
+
+Interested candidates are requested to send in their cover letter and resume clarifying their work experience and expected salary to hrd@lisnepal.com.np by 14th April 2019.
+JavaScript Developer & PHP Developer
+----------------------------------------------------
+Expectations
+
+2+ years of experience 
+Advanced knowledge of HTML/CSS, 
+Proficient in JavaScript (ES6+), and jQuery.
+Proficient in of PHP and OOP (PHP Developer)
+Advance knowledge of MySQL, MongoDB
+Have experience with task runners Gulp, Grunt, Webpack.
+Have experience with Javascript Frameworks (React, Vue.js, Angular 2+) (JavaScript Developer)
+APIs management and Web Services
+Wordpress Development (PHP Developer)
+Strong ability to debug frontend and backend code and write basic bash scripts
+Meticulous use of git (GitHub), confident of code deployment best practices, and savvy at executing command-line scripts.
+Well-versed in npm, webpack, and Node.js is a huge asset
+Agile Project Execution Methodologies.
+Be a reliable resource and collaborator for creative teams concepting digital experiences.
+Excellent communication skills; verbal and written.
+Experience in collaborative projects with other designers and developers.
+
+Good to have
+
+Have experience with ES6, Babel, Webpack
+Knowledge of databases such as MySQL, MongoDB
+Educational background - BIT, BCA, BIM(S)
+
+Are you up for the challenge? This is what we have to offer:
+
+Competitive salary and bonus scheme
+5 working days (9am to 6pm)
+A relaxed and social working environment
+Frequent Staff Outings
+The opportunity to work on the latest technologies and new techniques
+Premium Learning materials (Udacity, Tuts+, Pluralsight, Udemy etc)
+
+Apply Now
+Email us at press@optimumfuturist.com
+JavaScript Developer (React/Node)
+----------------------------------------------------
+Skills and Requirements:
+
+Solid understanding of Object Oriented JavaScript concepts.
+Expertise with JavaScript based frameworks like Javascript ES6, jQuery , NodeJS, React, RESTful Services and APIs, Git, HTML & CSS ,Typecript and any other framework
+Strong expertise with writing cross-browser compatible code.
+Minimum 1 Year+ experience working in a Company Environment (A must no freshers)
+Capable of Building reusable components and front-end libraries for future use
+Good understanding of front-end technologies, such as HTML5, CSS3, SASS, LESS
+Excellent learning and problem solving skills
+Good understanding of any PHP languages and frameworks (e.g CI, Laravel) would be a plus point.
+Familiar working in the Agile environment
+Good understanding of version control (e.g GIT) and concepts like branching, merging and cherry picking
+Creative and self-managed
+
+ 
+Other skills
+
+Proficient in english language and excellent communication
+Ability to work individually and with managers and creative teams while involved with the system development life cycle
+Familiar working in the Agile environment and SCRUM methodology
+Experience with cross-browser compatibility and cross-platform testing
+Deep understanding of web standards and best practices
+Should have an ability to work under minimal supervision
+Creative and self-managed
+Able to provide suggestions to improve the existing system
+
+ 
+Qualifications
+
+Bachelor’s degree in related discipline
+Min. 1 year of work experience 
+
+ 
+Company Benefits
+
+Friendly, competitive and creative working environment with foreign managers
+Competitive salary (No bar for deserving candidates)
+5 working days in a week(9 am - 5:30 pm)
+Timely salary review and performance bonus facilities
+Access to the paid learning materials (udemy)
+Working with the latest technologies
+Lunch provided in office
+Paid leave, sick leave
+Refreshment, Recreational, team building activities 
+
+Please apply at info@tekkon.io
+Senior Java Developer
+----------------------------------------------------
+Requirements:
+
+BS/MS degree in Computer Science, Engineering or a related subject
+At least 3 years of professional experience in Java based application development
+Experience in cloud and serverless technology (preferably AWS) would be a major plus point
+Experience in IBM Websphere would be a major plus point
+Experience in the Spring Framework(s)
+
+ 
+Skills:
+
+Java based RESTful web services using Spring
+Proficient in Spring framework
+Proficient in Struts
+Proficient in Angular
+Relational Databases & SQL (preferably MSSQL and/or Postgres)
+J2EE framework
+EJB (Enterprise Java Beans)
+Object Oriented Analysis and Design
+JSP
+XML,X query, XSL
+Test-Driven Development
+
+ 
+
+
+
+
+
+
+
+
+
+Job Description:
+
+
+
+Design, implement and maintain java application
+To take part in software and architectural development activities
+Write well designed, testable, efficient code
+Ensure designs follow specifications
+Prepare and produce releases of software components
+Recommend changes to improve established java application processes
+
+
+
+
+To apply please visit our website http://verisknepal.com.np
+Team Lead (Java, Python, Javascript, NodeJs)
+----------------------------------------------------
+Professional Skill Required
+:
+Mobile Applications Technical Strategy Python Sql & Nosql DatabasesJava Se Cloud Based Technologies And Tools Devops Javascript
+
+
+
+
+Other Specification
+
+Required Professional Skills:
+
+Requires strong leadership skills
+Strategic thinking skills
+Business and financial acumen
+Problem Solving
+Excellent written and oral communication skills
+Excellence with Building Cross Functional Relationships; internal customer/client focus
+Ability to analyze and evaluate several sources of data & develop action plans 
+
+Competencies: 
+
+Ability to lead, motivate, coach & develop the team to full potential
+Ability to think strategically and prioritize projects
+Strong presentation development and implementation skills
+
+
+
+
+
+
+
+
+
+Job Description
+
+The Head of Engineering shall lead over Front-end and Back-end development teams and will report directly to the Director of Engineering. He/she shall be responsible for driving the vision, design, strategy, and implementation of our core technologies in order to support our business. The HoE coordinates development teams and collaborates with other business departments in order to develop new software and support existing ones. The Head of Engineering is a person with strong leadership skills who also must have a strong vision for the Engineering department. He/she promotes the best organizational patterns and practices. He tackles high-level challenges and balances quality software with speed. He is responsible for feature deployment, the stability of the business’s core platform stability, and the overall quality of the business’s web architecture.
+Supervision and Leadership: 
+
+The Head of Engineering plays a leadership role in the engineering department where he seeks excellence in all engineering disciplines inclusive of data processing, quality assurance, application development, analytics, machine learning, algorithms, and data warehousing. The Head of Engineering manages the day-to-day activities of the engineering teams as well as the management and execution of site/software development projects against delivery commitments and project plans. The Head of Engineering is also in charge of the management of the department’s staffing, resources, and mentoring, and maintaining a best-in-class engineering department. He takes the lead with a profound understanding of new and relevant technologies for the purpose of realizing efficiency. He ensures the optimal application of engineering resources in order to meet product development and consumer requirements and ensures the implementation of agile processes that support site/software development processes. 
+
+Strategy: 
+
+The Head of Engineering also plays a leading engineering role within the department where he is tasked with the planning, management, execution and implementation of site/software projects, inclusive of the day-to-day project management, scope management, issue and risk management, as well as regular status reporting. In this capacity, the Head of Engineering develops strategic plans with regard to the technical development of sites/software and establishes the business’s technical vision that guides all aspects of technological development. He also oversees the strategic deployment of the departmental resources leading to optimal resource allocation and the smooth and successful development of sites/software. The Head of Engineering, at this capacity, is responsible for the overall system development life-cycle.
+
+Collaboration and Support: 
+
+The role of the Head of Engineering is also a highly collaborative one. The Head of Engineering will work closely with senior engineering teams in the management and development of strategic planning. He will also work closely with the user experience teams in designing, developing, and deploying technologies that will lead to increased consumer satisfaction. 
+
+Knowledge
+
+The Head of Engineering stays abreast of leading and cutting-edge technologies and industry best practices. He absorbs relevant and suitable technology based on the projected benefits to the engineering development departments. 
+
+Other Duties: 
+
+The Head of Engineering performs similar duties as he deems necessary for the proper execution of his duties and duties as delegated by the Director of Engineering, CTO and other executive directors.
+
+Note: 
+
+A focus in business (entrepreneurial mindset) is preferred but not required
+
+Interested and qualified candidates are also requested to submit their applications to : careers@gsignalx.com, hr@gsignalx.com, gsignalx@gmail.com
+Deadline for applications: 4 April 2019.
+Only short-listed candidates will be contacted.
